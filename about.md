@@ -21,3 +21,5 @@ This site is intended to host some articles I write, mainly focused about Inform
 </div>
 
 <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+
+Do not use these articles to harm. Intead use them as a sarting point for your research.
