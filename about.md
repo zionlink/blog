@@ -27,4 +27,4 @@ This site is intended to host some articles I write, mainly focused about Inform
 
 ## About me
 
-Dad, land bound sailor. Working since 20+ years with Linux, J2EE AS, and lately breaking things. You can download my Italian CV [here](assets/CV.pdf).
+Dad, land bound sailor. Working since 20+ years with Linux, J2EE AS, and lately breaking things. You can download my Italian CV [here](/assets/CV.pdf).
