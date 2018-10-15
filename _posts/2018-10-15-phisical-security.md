@@ -1,28 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+title:  "Don't underestimate physical security"
+date:   2018-10-15
+excerpt: "Physical Security"
 image: "/images/pic02.jpg"
 ---
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+## Case one
+Sitting on my desk, working. Beside my room is a meeting room. There is no wall between the two rooms, just a row of file cabinets, their height is from floor to ceiling. From each side (i.e. front and rear) those cabinets give the *impression* of beeing a wall. But I can distinctly hear what other are saying in the meeting room. And they think they are *unheard*. Mhhh.
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
-
-Open a terminal window or a command line and ```cd``` to that location.
-
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
-
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the front matter of each site. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
-### Formspring integration
-The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
+## Case two
+Had the unpleasant duty to take my daughter to the emergency room of an hospital nearby. She had to have some aerosol therapy, and the staff were kind enough to let us sit in a room with a desk to do it. Medical files were on the desk, and a laptop was left there *untattended*...

@@ -1,7 +1,7 @@
 # Site
 title:              Zion Link
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'Information Security articles'
+description:        "Blog with articles on Information Security, Vulnerability Assessment and Penetration Test"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -38,7 +38,7 @@ analytics-id:       "default"
 twitter:            morenji
 facebook:           default
 linkedin:           morenji
-github:             morenji
+github:             zionlink
 
 # personal
 location:           Rome, Italy
