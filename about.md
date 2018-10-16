@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About this Site
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/cherries.jpg" | absolute_url }}" alt="" /></span>
 
 This site is intended to host some articles I write, mainly focused about Information Security. The purpose is to share knowledge. Since I don't like overcomplicated things (and maybe I am concerned about security), this is a static blog. It runs thanks to [Jekyll](https://jekyllrb.com) and the [Massively Theme](http://jekyllthemes.org/themes/massively). Site source is on GitHub [here](https://github.com/zionlink/blog). Hosted on my VPS, please hack with taste.
 
@@ -23,7 +23,7 @@ This site is intended to host some articles I write, mainly focused about Inform
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/me.jpg" | absolute_url }}" alt="" /></span>
 
 ## About me
 
