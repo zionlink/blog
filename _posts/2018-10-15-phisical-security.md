@@ -3,7 +3,7 @@ layout: post
 title:  "Don't underestimate physical security"
 date:   2018-10-15
 excerpt: "Physical Security"
-image: "/images/pic02.jpg"
+image: "/images/wall.jpg"
 ---
 
 ## Case one
